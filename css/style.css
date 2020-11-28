@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.javaScript h1{
+	color: white;
+	font-size: 70px;
+}
+input::placeholder{
+	text-align: center;
+}
+
+input{
+	padding: 10px 10px;
+	border-radius: 20px;
+	outline-style: none;
+	text-align: center;
+}
+.methodall button{
+	padding: 5px 5px;
+	color: white;
+	background-color: green;
+	border-radius: 50%;
+	outline-style: none;
+}
+.r{
+
+	height: 150px;
+	background-color: blue;
+}
+
+
+.r h1{
+	color: white;
+}
+
+.methodall button:hover{
+	background-color: blue;
+}
